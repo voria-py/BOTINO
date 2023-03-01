@@ -14,8 +14,8 @@
 - macOS app: اجرای فایل app.run در پوشه macOS
 
 
-## خرید
-> خرید و فعالسازی zarin.express/amir
+## خرید و فعالسازی
+> <https://www.zarin.express/amir/product/4092/%D8%A8%D8%A7%D8%AA%DB%8C%D9%86%D9%88---botino>
 
 ## آموزش خرید و نحوه اجرای برنامه
 > <https://github.com/amirkho-py/BOTINO/blob/main/help.pdf>
