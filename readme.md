@@ -10,6 +10,8 @@
 ## نحوه اجرا
 
 - windows app: اجرای فایل botino.exe در فایل فشرده پوشه windows
+> دانلود مستقیم نسخه ویندوز (کلیک کنید)
+> <https://github.com/amirkho-py/BOTINO/raw/main/windows/BOTINO.zip>
 
 - macOS app: اجرای فایل app.run در پوشه macOS
 
